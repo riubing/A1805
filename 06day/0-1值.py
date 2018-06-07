@@ -1,0 +1,6 @@
+a = int(input("请输入数值")
+b = int(input("请输入在输入一个数值"))
+print("%d+%d的值是%d"%(a+b))
+print("%d-%d的值是%d"%(a-b))
+print("%d*%d的值是%d"%(a*b))
+print("%d/%d的值是%d"%(a/b))
